@@ -1,0 +1,10 @@
+C:\Users\Windows\source\repos\SantillanLE2\SantillanBlogDB\bin\Debug\SantillanBlogDB.dacpac
+C:\Users\Windows\source\repos\SantillanLE2\SantillanBlogDB\bin\Debug\SantillanBlogDB.dll
+C:\Users\Windows\source\repos\SantillanLE2\SantillanBlogDB\bin\Debug\SantillanBlogDB.pdb
+C:\Users\Windows\source\repos\SantillanLE2\SantillanBlogDB\obj\Debug\SantillanBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\SantillanLE2\SantillanBlogDB\obj\Debug\SantillanBlogDB.dll
+C:\Users\Windows\source\repos\SantillanLE2\SantillanBlogDB\obj\Debug\SantillanBlogDB.pdb
+C:\Users\Windows\source\repos\SantillanLE2\SantillanBlogDB\obj\Debug\Model.xml
+C:\Users\Windows\source\repos\SantillanLE2\SantillanBlogDB\obj\Debug\refactor.xml
+C:\Users\Windows\source\repos\SantillanLE2\SantillanBlogDB\obj\Debug\postdeploy.sql
+C:\Users\Windows\source\repos\SantillanLE2\SantillanBlogDB\obj\Debug\predeploy.sql
